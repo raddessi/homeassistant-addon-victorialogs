@@ -29,8 +29,8 @@ This add-on makes it easy to run a VictoriaLogs on Home Assistant OS on ARM64 sy
 
 ## Installation and configuration
 
-1. Add the reposity. (Quick link: [![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fdenisgolius%2Fhomeassistant-addon-victorialogs) )
-    * **Add the reposity** (click 3 dots on the top right of the screen). Reposity URL: *https://github.com/denisgolius/homeassistant-addon-victorialogs*
+1. Add the reposity. (Quick link: [![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FVictoriaMetrics-Community%2Fhomeassistant-addon-victorialogs) )
+    * **Add the reposity** (click 3 dots on the top right of the screen). Reposity URL: *https://github.com/VictoriaMetrics-Community/homeassistant-addon-victorialogs*
     * Refresh/reload your browser tab/window
 
 2. **Install** the add-on:

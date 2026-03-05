@@ -1,7 +1,7 @@
 name: VictoriaLogs
-version: "1.43.1"
+version: "1.47.0"
 slug: victoria_logs
-description: The Simple & Reliable Logs Solution That Scales
+description: The simple, resource-efficient and fast logs database that scales
 webui: "http://[HOST]:[PORT:9428]/"
 ingress: true
 ingress_port: 9428

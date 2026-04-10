@@ -9,6 +9,11 @@ ingress_entry: select/vmui
 # host_network: true
 ports:
   9428/tcp: 9428
+  9514/tcp: null
+  9514/udp: null
+ports_description:
+  9514/tcp: Extra connection
+  9514/udp: Extra connection
 arch:
   - armhf
   - armv7
